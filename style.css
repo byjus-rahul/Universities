@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(131, 188, 238);
+}
+
+.container{
+    text-align: center;
+    margin-top: 30px;
+    background-color: white;
+    height: 100px;
+    width: 700px;
+    margin:auto;
+    border-radius: 55px;
+}
+
+#country_input{
+   border: none;
+    border-bottom: 2px solid rgb(68, 28, 244);
+    margin-right: 100px;
+    height: 45px;
+    width : 250px;
+    outline: none;
+    font-size: 17px;
+    margin-top: 24px;
+}
+
+#search_btn{
+    height: 40px;
+    border: none;
+    width: 120px;
+    border-radius: 24px;
+    background-color: rgb(56, 56, 249);
+    color: white;
+    font-size: 21px;
+    margin:auto;
+    margin-top: 2px;
+}
+
+#university_list_block{
+    background-color: white;
+    border-radius: 5px;
+    margin : auto;
+    width : 950px;
+    border-radius: 25px;
+
+}
+
+.error{
+    margin-left: 265px;
+}
+
